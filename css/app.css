@@ -45,3 +45,70 @@ columns******/
     color: white;
     height: 100px;
 }
+.breakfast {
+height: 200px;
+background-image: url(../img/foodtop/breakfast.jpg)
+;
+}
+
+.lunch {
+height: 200px;
+
+background-image: url(../img/foodtop/lunch.jpg)
+;
+}
+.dinner {
+
+height: 200px;
+    background-image: url(../img/foodtop/dinner.jpg)
+
+}
+.border {
+
+border: 15px solid white;
+ -webkit-box-shadow: 0px 0px 20px rgba(0,0,0,.8);
+        -moz-box-shadow: 0px 0px 20px rgba(0,0,0,.8);
+            box-shadow: 0px 0px 20px rgba(0,0,0,.8);
+}
+.white {
+background-color: snow;
+    padding-top: 100px;
+
+}
+.row4 {
+color: black;
+    font-size: 12px;
+    line-height: 22px;
+}
+.drinks {
+
+text-align: right;
+}
+.img2 {
+
+background-image: url(../img/backgrounds/foodsBg.jpg)
+;
+}
+.row6 {
+    margin-top:10%;
+   height: 400px;
+background-color: snow;
+}
+
+.row7{
+text-align: center;
+}
+.red {
+    color: red;
+}
+.black {
+color: black;
+}
+.y{
+   height: 20px;
+
+}
+.pad{
+
+    padding: 10%
+}

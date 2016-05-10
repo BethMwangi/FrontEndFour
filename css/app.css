@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    margin: 0 auto;
+}
+.container {
+    margin: 0 auto;
+    width: 100%;
+}
+.img {
+    width: 100%;
+    background-image: url(../img/backgrounds/landing.jpg);
+    height: 600px;
+}
+
+/*positioning menu image and content */
+
+.overlay {
+    padding-top: 10%;
+    padding-left: 7%;
+}
+p {
+    color: snow;
+    font-size: 30px;
+}
+span {
+    font-weight: 800;
+}
+
+/*******
+********second row with 4
+columns******/
+
+.two {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+}
+.hour {
+    background-color: floralwhite;
+    color: black;
+    height: 100px;
+}
+.time {
+    background-color: red;
+    color: white;
+    height: 100px;
+}
